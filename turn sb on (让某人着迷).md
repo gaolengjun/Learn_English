@@ -14,3 +14,7 @@
 它与动词“turns”一起构成了一个 **动词短语**（phrasal verb）：“turns off”。
 
 “Turns off” 在这里的意思是“使人反感”或“让人失去兴趣”。
+
+> [!例句]
+> 1. His constant complaining is a real turn off. 他不停的抱怨真让人反感。
+> 2. The smell of cigarettes really turns me off. 烟味真的让我很反感。
