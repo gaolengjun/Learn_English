@@ -11,7 +11,7 @@
 
 在这个句子中，“off” 是一个 **介词**。
 
-它与动词“turns”一起构成了一个 **动词短语**（phrasal verb）：“turns off”。
+它与动词“turns”一起构成了一个 **动词短语**（phrasal verb）：“==turns off==”。
 
 “Turns off” 在这里的意思是“使人反感”或“让人失去兴趣”。
 
