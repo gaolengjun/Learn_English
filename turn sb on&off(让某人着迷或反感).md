@@ -30,4 +30,4 @@
 
 "==Turn off==" 在这里的意思是：**使人感到厌恶、反感，扫兴，失去兴趣**。
 
-所以，"People who smell are a turn off" 的意思是：**身上有味道的人会让人感到厌恶/扫兴。**
+所以，"==People who smell are a turn off==" 的意思是：**身上有味道的人会让人感到厌恶/扫兴。**
