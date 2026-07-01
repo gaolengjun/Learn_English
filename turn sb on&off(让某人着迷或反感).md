@@ -42,4 +42,11 @@
 
 所以，"They made out." 的意思是他们当时在亲热。
 
-## 发生xin
+## 发生性关系 
+
+"up" 是一个**介词**，与动词 "hook" 结合，构成了一个**动词短语 (phrasal verb)** "hook up"。
+
+动词短语 "hook up" 在这里表示“发生性关系”的意思。
+
+> 1. They decided to hook up after the party. (他们决定派对结束后发生性关系。)
+> 2. I heard they hooked up last night. (我听说他们昨晚发生了性关系。)
