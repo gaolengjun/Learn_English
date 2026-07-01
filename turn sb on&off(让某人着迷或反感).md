@@ -18,3 +18,10 @@
 > [!例句]
 > 1. His constant complaining is a real turn off. 他不停的抱怨真让人反感。
 > 2. The smell of cigarettes really turns me off. 烟味真的让我很反感。
+
+## 作名词
+在这个句子中，"turn" 是一个名词。
+
+它指的是一种**刺激或引起兴趣的事物**。
+
+在这个特定的句子中，"a turn on" 是一个习语，意思是**“令人兴奋的事物”或“有吸引力的事物”**。所以，“Long hair on a man is a turn on”的意思是“男人留长发是令人兴奋/有吸引力的”。
