@@ -48,5 +48,6 @@
 
 动词短语 "hook up" 在这里表示“发生性关系”的意思。
 
-> 1. They decided to hook up after the party. (他们决定派对结束后发生性关系。)
-> 2. I heard they hooked up last night. (我听说他们昨晚发生了性关系。)
+> [!例句]
+> > 1. They decided to hook up after the party. (他们决定派对结束后发生性关系。)
+ > 1. I heard they hooked up last night. (我听说他们昨晚发生了性关系。)
