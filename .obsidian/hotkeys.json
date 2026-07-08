@@ -46,5 +46,13 @@
       ],
       "key": "J"
     }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
   ]
 }
