@@ -25,14 +25,14 @@
             "id": "c6c8da6944edbff8",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "Clippings/Are you good at English - English Grammar in 2 Minutes - Good at vs. Bad at.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Are you good at English - English Grammar in 2 Minutes - Good at vs. Bad at"
             }
           }
         ],
@@ -224,6 +224,8 @@
   },
   "active": "c6c8da6944edbff8",
   "lastOpenFiles": [
+    "Clippings/Are you good at English - English Grammar in 2 Minutes - Good at vs. Bad at.md",
+    "Clippings",
     "4道令人困惑的英语问题.md",
     "been 还是 gone.md",
     "6个简短英文回应.md",
