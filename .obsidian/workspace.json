@@ -195,14 +195,34 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "6个简短英文回应.md"
+                "file": "Clippings/Are you good at English - English Grammar in 2 Minutes - Good at vs. Bad at.md"
               },
               "icon": "lucide-info",
-              "title": "6个简短英文回应的笔记属性"
+              "title": "Are you good at English - English Grammar in 2 Minutes - Good at vs. Bad at的笔记属性"
+            }
+          },
+          {
+            "id": "bcf971c0dff143e2",
+            "type": "leaf",
+            "state": {
+              "type": "translator-view",
+              "state": {},
+              "icon": "dummy",
+              "title": "DEBUG (Error)"
+            }
+          },
+          {
+            "id": "cc7c944d4af1a0a1",
+            "type": "leaf",
+            "state": {
+              "type": "translator-view",
+              "state": {},
+              "icon": "dummy",
+              "title": "DEBUG (Error)"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -218,12 +238,15 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "language-learner:Language Learner": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "translate:Open translation view": false
     }
   },
-  "active": "c6c8da6944edbff8",
+  "active": "bcf971c0dff143e2",
   "lastOpenFiles": [
+    "be coming to an end (即将结束 正走向结束).md",
+    "By or With.md",
+    "know, meet, meet with, or meet up.md",
     "Clippings/Are you good at English - English Grammar in 2 Minutes - Good at vs. Bad at.md",
     "Clippings",
     "4道令人困惑的英语问题.md",
@@ -243,11 +266,8 @@
     "恋爱关系表达.md",
     "README.md",
     "亲密关系表达.md",
-    "By or With.md",
-    "know, meet, meet with, or meet up.md",
     "如何谈论周末.md",
     "未命名.canvas",
-    "be coming to an end (即将结束 正走向结束).md",
     "stood up (放鸽子).md",
     "resource/Pasted image 20260702175431.png",
     "resource",
