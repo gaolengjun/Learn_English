@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2bd49ca0f0983107",
+        "id": "4ce02741eab5e6db",
         "type": "tabs",
         "children": [
           {
-            "id": "b71fca4367252245",
+            "id": "e02059d3a941ce4b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
-                "aRef": ""
+                "file": "否定词 No, Not, Don’t, Didn’t.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: graph.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "否定词 No, Not, Don’t, Didn’t"
             }
           }
         ]
@@ -227,7 +227,7 @@
       "translate:Open translation view": false
     }
   },
-  "active": "b71fca4367252245",
+  "active": "e02059d3a941ce4b",
   "lastOpenFiles": [
     "Clippings/Are you good at English - English Grammar in 2 Minutes - Good at vs. Bad at.md",
     "TalkEnglish.md",
