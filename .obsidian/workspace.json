@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "介绍住所.md",
+                "file": "视频结尾.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "介绍住所"
+              "title": "视频结尾"
             }
           }
         ]
@@ -227,13 +227,16 @@
       "translate:Open translation view": false
     }
   },
-  "active": "b00e4a60ce85bba4",
+  "active": "3b6c6c49c7828105",
   "lastOpenFiles": [
-    "本周视频拍摄计划.canvas",
-    "自我介绍.md",
-    "用餐表达.md",
     "如何谈论周末.md",
+    "本周视频拍摄计划.canvas",
+    "视频结尾.md",
+    "自我介绍.md",
+    "be coming to an end (即将结束 正走向结束).md",
     "介绍住所.md",
+    "恋爱关系表达.md",
+    "用餐表达.md",
     "4道令人困惑的英语问题.md",
     "表达偏好.md",
     "resource/Pasted image 20260722111208.png",
@@ -251,7 +254,6 @@
     "否定词 No, Not, Don’t, Didn’t.md",
     "Clippings/Are you good at English - English Grammar in 2 Minutes - Good at vs. Bad at.md",
     "TalkEnglish.md",
-    "be coming to an end (即将结束 正走向结束).md",
     "By or With.md",
     "know, meet, meet with, or meet up.md",
     "Clippings",
@@ -265,9 +267,7 @@
     "templates/注意.md",
     "templates/插入例句.md",
     "templates",
-    "恋爱关系表达.md",
     "README.md",
-    "亲密关系表达.md",
     "resource",
     "测试"
   ]

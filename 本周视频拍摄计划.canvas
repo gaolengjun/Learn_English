@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"b1b9ed828a8deff4","type":"file","file":"介绍住所.md","x":141,"y":427,"width":319,"height":513},
+		{"id":"7cd3f18e247ebc41","x":-970,"y":38,"width":400,"height":400,"type":"file","file":"视频结尾.md"},
 		{"id":"8a7c7d2c35231d8c","type":"text","text":"# 本周视频计划","x":182,"y":180,"width":238,"height":80,"color":"1"},
-		{"id":"405f290ec807b9b9","type":"text","text":"# 视频结尾\n## 常用语\n## 求关注","x":-160,"y":129,"width":184,"height":183,"color":"6"},
-		{"id":"50d8551d8f41e2ab","type":"file","file":"自我介绍.md","x":600,"y":-311,"width":407,"height":1063,"color":"4"}
+		{"id":"b1b9ed828a8deff4","type":"file","file":"介绍住所.md","x":-579,"y":820,"width":999,"height":913},
+		{"id":"50d8551d8f41e2ab","type":"file","file":"自我介绍.md","x":760,"y":380,"width":720,"height":1091,"color":"4"}
 	],
 	"edges":[
 		{"id":"13b3a3a05ba840e0","fromNode":"8a7c7d2c35231d8c","fromSide":"bottom","toNode":"b1b9ed828a8deff4","toSide":"top"},
 		{"id":"2337091271f25a1b","fromNode":"8a7c7d2c35231d8c","fromSide":"right","toNode":"50d8551d8f41e2ab","toSide":"left"},
-		{"id":"cbc896ae605028c5","fromNode":"8a7c7d2c35231d8c","fromSide":"left","toNode":"405f290ec807b9b9","toSide":"right"}
+		{"id":"f6908aed7a2d7d85","fromNode":"8a7c7d2c35231d8c","fromSide":"left","toNode":"7cd3f18e247ebc41","toSide":"right"}
 	]
 }
