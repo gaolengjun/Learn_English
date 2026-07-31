@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"7cd3f18e247ebc41","x":-970,"y":38,"width":400,"height":400,"type":"file","file":"视频结尾.md"},
 		{"id":"8a7c7d2c35231d8c","type":"text","text":"# 本周视频计划","x":182,"y":180,"width":238,"height":80,"color":"1"},
-		{"id":"b1b9ed828a8deff4","type":"file","file":"介绍住所.md","x":-579,"y":820,"width":999,"height":913},
-		{"id":"50d8551d8f41e2ab","type":"file","file":"自我介绍.md","x":760,"y":380,"width":720,"height":1091,"color":"4"}
+		{"id":"50d8551d8f41e2ab","type":"file","file":"自我介绍.md","x":920,"y":-325,"width":720,"height":1091,"color":"4"},
+		{"id":"b1b9ed828a8deff4","type":"file","file":"介绍住所.md","x":-198,"y":380,"width":999,"height":913},
+		{"id":"7cd3f18e247ebc41","type":"file","file":"视频结尾.md","x":-840,"y":50,"width":570,"height":342}
 	],
 	"edges":[
 		{"id":"13b3a3a05ba840e0","fromNode":"8a7c7d2c35231d8c","fromSide":"bottom","toNode":"b1b9ed828a8deff4","toSide":"top"},
