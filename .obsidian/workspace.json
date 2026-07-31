@@ -11,17 +11,14 @@
             "id": "3b6c6c49c7828105",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "本周视频拍摄计划.canvas",
-                "viewState": {
-                  "x": 400,
-                  "y": 340.7453416149067,
-                  "zoom": -0.6232794322722582
-                }
+                "file": "自我介绍.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "本周视频拍摄计划"
+              "icon": "lucide-file",
+              "title": "自我介绍"
             }
           }
         ]
@@ -232,9 +229,9 @@
   },
   "active": "3b6c6c49c7828105",
   "lastOpenFiles": [
+    "本周视频拍摄计划.canvas",
     "视频结尾.md",
     "如何谈论周末.md",
-    "本周视频拍摄计划.canvas",
     "自我介绍.md",
     "be coming to an end (即将结束 正走向结束).md",
     "介绍住所.md",
