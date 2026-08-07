@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"12fe5fab754004e8","x":-1060,"y":-400,"width":527,"height":67,"type":"text","text":"Hi, guys! Today, I want to show you about my belongings. This room is not my home, so my stuff is few."},
+		{"id":"bf50965ec9f7497f","x":-320,"y":-396,"width":250,"height":60,"type":"text","text":"# 本周视频规划"},
+		{"id":"65a5cb34927c6e9a","x":-298,"y":-740,"width":206,"height":221,"type":"text","text":"# 练习要点\nThere be 句型\nWhich 关系副词\nWho 关系副词\n方位介词"},
+		{"id":"694d6f6495b1cf5c","x":140,"y":-460,"width":628,"height":187,"type":"text","text":"In front of me, it is a wooden table. It's small and old,  and My stuff barely fits.\nThe table is a mess. Look here. I have a few books, Two textbooks, a grammar book and an English story. This book whose name is Family Album USA. I'm learning it. You can see it;  I wrote a lot of notes on it. here is also the book who I bought a few years. its name is The Little Prince. Until now I started to read it."}
+	],
+	"edges":[
+		{"id":"f05dc6aafc5082e5","fromNode":"bf50965ec9f7497f","fromSide":"left","toNode":"12fe5fab754004e8","toSide":"right"},
+		{"id":"76da0cd3be11732b","fromNode":"bf50965ec9f7497f","fromSide":"right","toNode":"694d6f6495b1cf5c","toSide":"left"},
+		{"id":"fcac6f31b3b416e4","fromNode":"bf50965ec9f7497f","fromSide":"top","toNode":"65a5cb34927c6e9a","toSide":"bottom"}
+	]
+}

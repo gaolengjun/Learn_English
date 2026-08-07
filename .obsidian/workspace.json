@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4ce02741eab5e6db",
+        "id": "b8556affa6f2d80d",
         "type": "tabs",
         "children": [
           {
-            "id": "3b6c6c49c7828105",
+            "id": "5401217e80165b4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "自我介绍.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": -54.859275975202465,
+                  "y": -343.8005135153819,
+                  "zoom": -1.1102230246251565e-16
+                }
               },
-              "icon": "lucide-file",
-              "title": "自我介绍"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ]
@@ -229,28 +232,32 @@
       "translate:Open translation view": false
     }
   },
-  "active": "3b6c6c49c7828105",
+  "active": "5401217e80165b4c",
   "lastOpenFiles": [
+    "2026-08-06.md",
+    "未命名.canvas",
+    "未命名.md",
+    "介绍住所.md",
+    "If 条件句.md",
+    "resource/Pasted image 20260806110026.png",
+    "resource/Pasted image 20260806110014.png",
+    "resource/Pasted image 20260806105959.png",
+    "resource/Pasted image 20260806105759.png",
+    "resource/Pasted image 20260806105644.png",
+    "resource/Pasted image 20260806105607.png",
+    "resource/Pasted image 20260806105516.png",
+    "resource/Pasted image 20260806105457.png",
+    "resource/Pasted image 20260806105430.png",
+    "resource/Pasted image 20260806105206.png",
+    "自我介绍.md",
     "本周视频拍摄计划.canvas",
     "视频结尾.md",
     "如何谈论周末.md",
-    "自我介绍.md",
     "be coming to an end (即将结束 正走向结束).md",
-    "介绍住所.md",
     "恋爱关系表达.md",
     "用餐表达.md",
     "4道令人困惑的英语问题.md",
     "表达偏好.md",
-    "resource/Pasted image 20260722111208.png",
-    "resource/Pasted image 20260722111156.png",
-    "resource/Pasted image 20260722111023.png",
-    "resource/Pasted image 20260722110954.png",
-    "resource/Pasted image 20260722110452.png",
-    "resource/Pasted image 20260722110334.png",
-    "resource/Pasted image 20260722110306.png",
-    "resource/Pasted image 20260722110215.png",
-    "resource/Pasted image 20260722105927.png",
-    "resource/Pasted image 20260722105546.png",
     "been 还是 gone.md",
     "无论.md",
     "否定词 No, Not, Don’t, Didn’t.md",
@@ -266,10 +273,7 @@
     "关系代词Who.md",
     "templates/开头.md",
     "英语中常用副词.md",
-    "templates/注意.md",
-    "templates/插入例句.md",
     "templates",
-    "README.md",
     "resource",
     "测试"
   ]
