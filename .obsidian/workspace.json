@@ -8,19 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5401217e80165b4c",
+            "id": "5843c36c42b3fed2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": -54.859275975202465,
-                  "y": -343.8005135153819,
-                  "zoom": -1.1102230246251565e-16
-                }
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-file",
               "title": "未命名"
             }
           }
@@ -232,11 +229,12 @@
       "translate:Open translation view": false
     }
   },
-  "active": "5401217e80165b4c",
+  "active": "5843c36c42b3fed2",
   "lastOpenFiles": [
-    "2026-08-06.md",
-    "未命名.canvas",
+    "无论.md",
     "未命名.md",
+    "本周视频规划.canvas",
+    "2026-08-06.md",
     "介绍住所.md",
     "If 条件句.md",
     "resource/Pasted image 20260806110026.png",
@@ -259,7 +257,6 @@
     "4道令人困惑的英语问题.md",
     "表达偏好.md",
     "been 还是 gone.md",
-    "无论.md",
     "否定词 No, Not, Don’t, Didn’t.md",
     "Clippings/Are you good at English - English Grammar in 2 Minutes - Good at vs. Bad at.md",
     "TalkEnglish.md",
