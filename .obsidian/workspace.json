@@ -11,14 +11,17 @@
             "id": "5843c36c42b3fed2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
+                "file": "本周视频规划.canvas",
+                "viewState": {
+                  "x": 504.25000000000006,
+                  "y": -350.68749999999983,
+                  "zoom": 1
+                }
               },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "icon": "lucide-layout-dashboard",
+              "title": "本周视频规划"
             }
           }
         ]
@@ -158,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "本周视频规划.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -231,8 +235,14 @@
   },
   "active": "5843c36c42b3fed2",
   "lastOpenFiles": [
+    "have been & has been & had been.md",
+    "resource/Pasted image 20260807135110.png",
+    "resource/Pasted image 20260807134817.png",
+    "resource/Pasted image 20260807134741.png",
+    "resource/Pasted image 20260807134708.png",
+    "resource/Pasted image 20260807134653.png",
+    "resource/Pasted image 20260807115416.png",
     "无论.md",
-    "未命名.md",
     "本周视频规划.canvas",
     "2026-08-06.md",
     "介绍住所.md",
@@ -241,12 +251,6 @@
     "resource/Pasted image 20260806110014.png",
     "resource/Pasted image 20260806105959.png",
     "resource/Pasted image 20260806105759.png",
-    "resource/Pasted image 20260806105644.png",
-    "resource/Pasted image 20260806105607.png",
-    "resource/Pasted image 20260806105516.png",
-    "resource/Pasted image 20260806105457.png",
-    "resource/Pasted image 20260806105430.png",
-    "resource/Pasted image 20260806105206.png",
     "自我介绍.md",
     "本周视频拍摄计划.canvas",
     "视频结尾.md",

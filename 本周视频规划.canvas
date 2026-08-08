@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"12fe5fab754004e8","x":-1060,"y":-400,"width":527,"height":67,"type":"text","text":"Hi, guys! Today, I want to show you about my belongings. This room is not my home, so my stuff is few."},
-		{"id":"bf50965ec9f7497f","x":-320,"y":-396,"width":250,"height":60,"type":"text","text":"# 本周视频规划"},
-		{"id":"65a5cb34927c6e9a","x":-298,"y":-740,"width":206,"height":221,"type":"text","text":"# 练习要点\nThere be 句型\nWhich 关系副词\nWho 关系副词\n方位介词"},
-		{"id":"694d6f6495b1cf5c","x":140,"y":-460,"width":628,"height":187,"type":"text","text":"In front of me, it is a wooden table. It's small and old,  and My stuff barely fits.\nThe table is a mess. Look here. I have a few books, Two textbooks, a grammar book and an English story. This book whose name is Family Album USA. I'm learning it. You can see it;  I wrote a lot of notes on it. here is also the book who I bought a few years. its name is The Little Prince. Until now I started to read it."}
+		{"id":"12fe5fab754004e8","type":"text","text":"Hi, guys! Today, I want to show you about my belongings. This room is not my home, so my stuff is few.","x":-1060,"y":-400,"width":527,"height":67},
+		{"id":"bf50965ec9f7497f","type":"text","text":"# 本周视频规划","x":-320,"y":-396,"width":250,"height":60},
+		{"id":"65a5cb34927c6e9a","type":"text","text":"# 练习要点\nThere be 句型\nWhich 关系副词\nWho 关系副词\n方位介词","x":-298,"y":-740,"width":206,"height":221},
+		{"id":"694d6f6495b1cf5c","type":"text","text":"In front of me, it is a wooden table. It's small and old,  and My stuff barely fits.\nThe table is a mess. Look here. I have a few books, Two textbooks, a grammar book and an English story. This book whose name is Family Album USA. I'm learning it. You can see it;  I wrote a lot of notes on it. here is also the book who I bought a few years. its name is The Little Prince. Until now I started to read it. I have two charging cables, one is my phone's, the other is my tablet's. Speaking of my tablet, it's an OPPO Pad 4. Its screen is very clear, to watch movies ","x":140,"y":-460,"width":628,"height":187}
 	],
 	"edges":[
 		{"id":"f05dc6aafc5082e5","fromNode":"bf50965ec9f7497f","fromSide":"left","toNode":"12fe5fab754004e8","toSide":"right"},
