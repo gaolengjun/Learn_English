@@ -15,9 +15,9 @@
               "state": {
                 "file": "本周视频规划.canvas",
                 "viewState": {
-                  "x": 485.505229338232,
-                  "y": -339.4719432693975,
-                  "zoom": 1
+                  "x": 29.986635548526635,
+                  "y": -275.1224206929277,
+                  "zoom": -0.3333333333333332
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#end",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -233,7 +234,7 @@
       "translate:Open translation view": false
     }
   },
-  "active": "fbbf81b61909c39f",
+  "active": "86e1782bc4553352",
   "lastOpenFiles": [
     "have been & has been & had been.md",
     "resource/Pasted image 20260807135110.png",
