@@ -11,17 +11,14 @@
             "id": "5843c36c42b3fed2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "本周视频规划.canvas",
-                "viewState": {
-                  "x": 29.986635548526635,
-                  "y": -275.1224206929277,
-                  "zoom": -0.3333333333333332
-                }
+                "file": "无论.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "本周视频规划"
+              "icon": "lucide-file",
+              "title": "无论"
             }
           }
         ]
@@ -58,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#end",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +76,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,8 +230,12 @@
       "translate:Open translation view": false
     }
   },
-  "active": "86e1782bc4553352",
+  "active": "5843c36c42b3fed2",
   "lastOpenFiles": [
+    "视频计划/第二次视频规划.canvas",
+    "视频计划/第一次频拍摄计划.canvas",
+    "视频计划",
+    "表达偏好.md",
     "have been & has been & had been.md",
     "resource/Pasted image 20260807135110.png",
     "resource/Pasted image 20260807134817.png",
@@ -244,23 +244,20 @@
     "resource/Pasted image 20260807134653.png",
     "resource/Pasted image 20260807115416.png",
     "无论.md",
-    "本周视频规划.canvas",
     "2026-08-06.md",
-    "介绍住所.md",
+    "视频计划/介绍住所.md",
     "If 条件句.md",
     "resource/Pasted image 20260806110026.png",
     "resource/Pasted image 20260806110014.png",
     "resource/Pasted image 20260806105959.png",
     "resource/Pasted image 20260806105759.png",
-    "自我介绍.md",
-    "本周视频拍摄计划.canvas",
-    "视频结尾.md",
+    "视频计划/自我介绍.md",
+    "视频计划/视频结尾.md",
     "如何谈论周末.md",
     "be coming to an end (即将结束 正走向结束).md",
     "恋爱关系表达.md",
     "用餐表达.md",
     "4道令人困惑的英语问题.md",
-    "表达偏好.md",
     "been 还是 gone.md",
     "否定词 No, Not, Don’t, Didn’t.md",
     "Clippings/Are you good at English - English Grammar in 2 Minutes - Good at vs. Bad at.md",
