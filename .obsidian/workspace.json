@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b8556affa6f2d80d",
+        "id": "1ef6e34330283cfa",
         "type": "tabs",
         "children": [
           {
-            "id": "5843c36c42b3fed2",
+            "id": "81db4d4ac2be0738",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "无论.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "无论"
+              "title": "新标签页"
             }
           }
         ]
@@ -230,7 +226,7 @@
       "translate:Open translation view": false
     }
   },
-  "active": "5843c36c42b3fed2",
+  "active": "fbbf81b61909c39f",
   "lastOpenFiles": [
     "视频计划/第二次视频规划.canvas",
     "视频计划/第一次频拍摄计划.canvas",
