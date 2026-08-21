@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "视频计划/未命名.canvas",
+                "file": "视频计划/第三次视频规划.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -45,
+                  "y": -140,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "title": "第三次视频规划"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "视频计划/未命名.canvas",
+                "file": "视频计划/第三次视频规划.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -233,10 +233,10 @@
       "translate:Open translation view": false
     }
   },
-  "active": "b00e4a60ce85bba4",
+  "active": "81db4d4ac2be0738",
   "lastOpenFiles": [
     "英文教学视频《美式英语频率最高的句子》.md",
-    "视频计划/未命名.canvas",
+    "视频计划/第三次视频规划.canvas",
     "Bhutan_英语学习笔记.md",
     "Mom Sees Son Cheat 地道英文表达拆解笔记.md",
     "视频计划/第二次视频规划.canvas",

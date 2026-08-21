@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"24358b2c9c3ecced","x":-520,"y":-160,"width":250,"height":60,"type":"text","text":"学历、文化背景、实习经历"},
+		{"id":"c4ceb9834e4a0aa7","x":-171,"y":80,"width":250,"height":60,"type":"text","text":"找工作经历、工作内容"},
+		{"id":"3722d743cbe5799d","x":-171,"y":-420,"width":250,"height":60,"type":"text","text":"自学经历、换工作、新工作内容"},
+		{"id":"9c05490224cb5a98","x":180,"y":-160,"width":250,"height":60,"type":"text","text":"自由职业、近年经历、对未来行业看法"},
+		{"id":"5d8c5ac04f056a0d","x":-136,"y":-160,"width":180,"height":60,"type":"text","text":"# 职业经历"}
+	],
+	"edges":[
+		{"id":"2771964466bbfb06","fromNode":"5d8c5ac04f056a0d","fromSide":"left","toNode":"24358b2c9c3ecced","toSide":"right"},
+		{"id":"bce1735c30bc4bf0","fromNode":"5d8c5ac04f056a0d","fromSide":"bottom","toNode":"c4ceb9834e4a0aa7","toSide":"top"},
+		{"id":"bcec9d29513534c4","fromNode":"5d8c5ac04f056a0d","fromSide":"top","toNode":"3722d743cbe5799d","toSide":"bottom"},
+		{"id":"1f43837356abaec1","fromNode":"5d8c5ac04f056a0d","fromSide":"right","toNode":"9c05490224cb5a98","toSide":"left"}
+	]
+}
