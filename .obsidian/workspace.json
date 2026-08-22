@@ -15,9 +15,9 @@
               "state": {
                 "file": "视频计划/第三次视频规划.canvas",
                 "viewState": {
-                  "x": -294.46711822609427,
-                  "y": 201.29152479250325,
-                  "zoom": -0.3333333333333332
+                  "x": -244.49999999999994,
+                  "y": -104.37499999999997,
+                  "zoom": -1.1102230246251565e-16
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -213,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -233,7 +233,7 @@
       "translate:Open translation view": false
     }
   },
-  "active": "81db4d4ac2be0738",
+  "active": "fbbf81b61909c39f",
   "lastOpenFiles": [
     "英文教学视频《美式英语频率最高的句子》.md",
     "视频计划/第三次视频规划.canvas",
