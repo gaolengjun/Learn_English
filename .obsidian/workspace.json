@@ -11,17 +11,14 @@
             "id": "81db4d4ac2be0738",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "视频计划/第三次视频规划.canvas",
-                "viewState": {
-                  "x": -244.49999999999994,
-                  "y": -104.37499999999997,
-                  "zoom": -1.1102230246251565e-16
-                }
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "第三次视频规划"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -233,10 +230,12 @@
       "translate:Open translation view": false
     }
   },
-  "active": "fbbf81b61909c39f",
+  "active": "81db4d4ac2be0738",
   "lastOpenFiles": [
-    "英文教学视频《美式英语频率最高的句子》.md",
+    "4道令人困惑的英语问题.md",
+    "Untitled.md",
     "视频计划/第三次视频规划.canvas",
+    "英文教学视频《美式英语频率最高的句子》.md",
     "Bhutan_英语学习笔记.md",
     "Mom Sees Son Cheat 地道英文表达拆解笔记.md",
     "视频计划/第二次视频规划.canvas",
@@ -264,7 +263,6 @@
     "be coming to an end (即将结束 正走向结束).md",
     "恋爱关系表达.md",
     "用餐表达.md",
-    "4道令人困惑的英语问题.md",
     "been 还是 gone.md",
     "否定词 No, Not, Don’t, Didn’t.md",
     "Clippings/Are you good at English - English Grammar in 2 Minutes - Good at vs. Bad at.md",
@@ -276,7 +274,6 @@
     "Youtube.md",
     "常用征求他人意见看法和回应.md",
     "目录.base",
-    "关系代词Who.md",
     "templates",
     "resource",
     "测试"
