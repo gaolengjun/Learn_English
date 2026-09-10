@@ -11,14 +11,17 @@
             "id": "81db4d4ac2be0738",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "表达偏好.md",
-                "mode": "preview",
-                "source": false
+                "file": "视频计划/第三次视频规划.canvas",
+                "viewState": {
+                  "x": -222.5,
+                  "y": -105.5,
+                  "zoom": -0.16493814877255414
+                }
               },
-              "icon": "lucide-file",
-              "title": "表达偏好"
+              "icon": "lucide-layout-dashboard",
+              "title": "第三次视频规划"
             }
           }
         ]
@@ -55,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "倾向",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +79,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -233,6 +235,8 @@
   },
   "active": "81db4d4ac2be0738",
   "lastOpenFiles": [
+    "u4_s1_chunks_of_language_地道语块拆解笔记.md",
+    "表达偏好.md",
     "45个高级短语，助你自信进行英语对话.md",
     "恋爱关系表达.md",
     "45_Advanced_Phrases_学习笔记.md",
@@ -246,7 +250,6 @@
     "视频计划/第二次视频规划.canvas",
     "视频计划/第一次频拍摄计划.canvas",
     "视频计划",
-    "表达偏好.md",
     "have been & has been & had been.md",
     "resource/Pasted image 20260807135110.png",
     "resource/Pasted image 20260807134817.png",
@@ -273,7 +276,6 @@
     "By or With.md",
     "know, meet, meet with, or meet up.md",
     "Clippings",
-    "6个简短英文回应.md",
     "目录.base",
     "templates",
     "resource",
