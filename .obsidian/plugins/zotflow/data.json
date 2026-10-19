@@ -1,0 +1,73 @@
+{
+  "settings": {
+    "librariesConfig": {},
+    "syncInterval": 30,
+    "autoSync": false,
+    "useWebDav": false,
+    "useCache": true,
+    "maxCacheSizeMB": 500,
+    "librarySourceNoteTemplatePath": "",
+    "sourceNoteFolder": "",
+    "librarySourceNotePathTemplate": "Source/{{libraryName}}/@{{citationKey | default: title | default: key}}",
+    "localSourceNoteTemplatePath": "",
+    "localSourceNoteFolder": "",
+    "localSidecarFolder": "",
+    "localSourceNotePathTemplate": "Source/Local/@{{basename}}",
+    "autoImportAnnotationImages": false,
+    "annotationImageFolder": "Source/Images",
+    "overwriteViewer": true,
+    "readerColorScheme": "obsidian-theme",
+    "defaultLightTheme": "obsidian",
+    "defaultDarkTheme": "obsidian",
+    "treeCollectionSort": "name-asc",
+    "treeItemSort": "title-asc",
+    "treeSingleClickOpen": false,
+    "itemDisplayTitleTemplate": "",
+    "convertNoteLinks": true,
+    "linkedAttachmentBaseDir": "",
+    "useZoteroStorage": false,
+    "zoteroStoragePath": "",
+    "defaultEditableRegionLocked": true,
+    "hideEditableRegionMarkers": false,
+    "alwaysOpenChildNoteInEditor": false,
+    "defaultCitationFormat": "footnote",
+    "citationTrigger": "@@",
+    "citationPandocTemplate": "",
+    "citationFootnoteRefTemplate": "",
+    "citationFootnoteTemplate": "",
+    "citationWikilinkTemplate": "",
+    "autoCopyAnnotation": "off",
+    "autoUpdateSourceNotesAfterSync": true,
+    "autoPurgeTrashedSourceNotes": false,
+    "autoDisableNoteImageTextTools": true,
+    "epubFontFamily": "",
+    "cslDefaultStyleId": "apa",
+    "cslDefaultFormat": "markdown",
+    "cslStylesFolder": ""
+  },
+  "customThemes": [
+    {
+      "background": "#1e1e2e",
+      "foreground": "#cdd6f4",
+      "id": "obsidian",
+      "label": "Obsidian"
+    }
+  ],
+  "viewStates": {
+    "辩论视频英语学习笔记.html": {
+      "secondaryViewState": null,
+      "primaryViewState": {
+        "scale": 1,
+        "scrollYPercent": 18.9,
+        "appearance": {
+          "lineHeight": 1.2,
+          "wordSpacing": 0,
+          "letterSpacing": 0,
+          "pageWidth": 0,
+          "useOriginalFont": false
+        },
+        "lastReadAloudPosition": null
+      }
+    }
+  }
+}

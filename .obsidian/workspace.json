@@ -11,10 +11,12 @@
             "id": "ddf48aa99d8f509a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "zotflow-local-zotero-reader-view",
+              "state": {
+                "file": "辩论视频英语学习笔记.html"
+              },
+              "icon": "book-open",
+              "title": "辩论视频英语学习笔记.html"
             }
           }
         ]
@@ -228,8 +230,11 @@
       "zotflow:ZotFlow: Search Zotero": false
     }
   },
-  "active": "974ac3f154dce658",
+  "active": "ddf48aa99d8f509a",
   "lastOpenFiles": [
+    "Charlie_Kirk校园问答_英语学习笔记.md",
+    "英语中常用副词.md",
+    "英语口语8个句子骨架_教学拆解文字稿.md",
     "10条切实有效的色情成瘾康复建议.md",
     "4道令人困惑的英语问题.md",
     "be coming to an end (即将结束 正走向结束).md",
@@ -239,8 +244,6 @@
     "雅思高频词汇闪卡.md",
     "45个高级短语教你自信的英语会话.md",
     "~$英语含up短语动词拆解与详细解析.pptx",
-    "英语中常用副词.md",
-    "英语口语8个句子骨架_教学拆解文字稿.md",
     "上海世技馆英译地道英语句式学习指南.pptx",
     "八种实用英语口语开头连接句型.pptx",
     "英文介词with五种核心关系解析带例句.pptx",
@@ -264,7 +267,6 @@
     "恋爱关系表达.md",
     "视频计划/第三次视频规划.canvas",
     "45_Advanced_Phrases_学习笔记.md",
-    "周日漫步商场.md",
     "resource/Pasted image 20260824164212.png",
     "视频计划/第二次视频规划.canvas",
     "视频计划/第一次频拍摄计划.canvas",
