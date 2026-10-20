@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "annotations": [
+    {
+      "type": "underline",
+      "color": "#ffd400",
+      "sortIndex": "0000133",
+      "position": {
+        "type": "CssSelector",
+        "value": "#一精选句子速览 + div > table > thead > tr > th:last-child"
+      },
+      "text": "核心语法点",
+      "pageLabel": "",
+      "comment": "",
+      "tags": [],
+      "id": "TLQIFNMS",
+      "dateCreated": "2026-10-20T03:35:42.198Z",
+      "dateModified": "2026-10-20T03:35:42.198Z",
+      "authorName": ""
+    }
+  ]
+}
