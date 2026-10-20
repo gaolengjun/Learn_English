@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e9691025101be626",
+        "id": "ea317da6a69c0aee",
         "type": "tabs",
         "children": [
           {
-            "id": "954a296aaca2984d",
+            "id": "7877f13aad1cd76f",
             "type": "leaf",
             "state": {
-              "type": "zotflow-local-zotero-reader-view",
+              "type": "borrax-html-view",
               "state": {
                 "file": "Audio/我为了一个怪物，离开了我所爱的男人/I Left The Man I Love For A Monster_英语学习.html"
               },
-              "icon": "book-open",
-              "title": "I Left The Man I Love For A Monster_英语学习.html"
+              "icon": "code-2",
+              "title": "I Left The Man I Love For A Monster_英语学习"
             }
           }
         ]
@@ -72,16 +72,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "书签"
-            }
-          },
-          {
-            "id": "7a85ca5e2c43e270",
-            "type": "leaf",
-            "state": {
-              "type": "zotflow-tree-view",
-              "state": {},
-              "icon": "library",
-              "title": "Zotero Library"
             }
           }
         ]
@@ -196,16 +186,6 @@
               "icon": "lucide-info",
               "title": "Are you good at English - English Grammar in 2 Minutes - Good at vs. Bad at的笔记属性"
             }
-          },
-          {
-            "id": "974ac3f154dce658",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "笔记复习序列"
-            }
           }
         ],
         "currentTab": 5
@@ -224,13 +204,10 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-spaced-repetition:复习卡片": false,
-      "zotflow:ZotFlow: Activity Center": false,
-      "zotflow:ZotFlow: Search Zotero": false
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "954a296aaca2984d",
+  "active": "7877f13aad1cd76f",
   "lastOpenFiles": [
     "Audio/我为了一个怪物，离开了我所爱的男人/video_audio.mp3",
     "白宫同台_马斯克黄仁勋_英语学习笔记.md",
