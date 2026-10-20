@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a97317b4f1b6239a",
+        "id": "e9691025101be626",
         "type": "tabs",
         "children": [
           {
-            "id": "ddf48aa99d8f509a",
+            "id": "954a296aaca2984d",
             "type": "leaf",
             "state": {
               "type": "zotflow-local-zotero-reader-view",
               "state": {
-                "file": "辩论视频英语学习笔记.html"
+                "file": "Audio/我为了一个怪物，离开了我所爱的男人/I Left The Man I Love For A Monster_英语学习.html"
               },
               "icon": "book-open",
-              "title": "辩论视频英语学习笔记.html"
-            }
-          },
-          {
-            "id": "8eb96c687f33ac92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "白宫同台_马斯克黄仁勋_英语学习笔记.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "白宫同台_马斯克黄仁勋_英语学习笔记"
+              "title": "I Left The Man I Love For A Monster_英语学习.html"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,8 +230,13 @@
       "zotflow:ZotFlow: Search Zotero": false
     }
   },
-  "active": "fbbf81b61909c39f",
+  "active": "954a296aaca2984d",
   "lastOpenFiles": [
+    "Audio/我为了一个怪物，离开了我所爱的男人/video_audio.mp3",
+    "白宫同台_马斯克黄仁勋_英语学习笔记.md",
+    "Audio/我为了一个怪物，离开了我所爱的男人/I Left The Man I Love For A Monster_英语学习.html",
+    "Audio/我为了一个怪物，离开了我所爱的男人",
+    "Audio",
     "Source/Local/@辩论视频英语学习笔记.md",
     "Source/Local",
     "Source",
@@ -265,12 +255,8 @@
     "雅思高频词汇闪卡.md",
     "45个高级短语教你自信的英语会话.md",
     "~$英语含up短语动词拆解与详细解析.pptx",
-    "上海世技馆英译地道英语句式学习指南.pptx",
-    "八种实用英语口语开头连接句型.pptx",
-    "英文介词with五种核心关系解析带例句.pptx",
     "u4_s1_chunks_of_language_地道语块拆解笔记.md",
     "无论.md",
-    "英语含up短语动词拆解与详细解析.pptx",
     "Mom Sees Son Cheat 地道英文表达拆解笔记.md",
     "常用征求他人意见看法和回应.md",
     "成为流利英语的正确方法.md",
@@ -282,8 +268,6 @@
     "世界技能博物馆_视频英文转写稿_中英对照.md",
     "2026-09-10.md",
     "supposed to (应该).md",
-    "英语地道表达拆解学习手册.md",
-    "恋爱关系表达.md",
     "视频计划/第三次视频规划.canvas",
     "resource/Pasted image 20260824164212.png",
     "视频计划/第二次视频规划.canvas",
