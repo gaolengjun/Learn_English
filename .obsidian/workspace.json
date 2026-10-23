@@ -11,12 +11,12 @@
             "id": "7877f13aad1cd76f",
             "type": "leaf",
             "state": {
-              "type": "borrax-html-view",
+              "type": "audio",
               "state": {
-                "file": "Audio/A Day in Boston 慢速英语Vlog地道表达学习.html"
+                "file": "Audio/我为了一个怪物，离开了我所爱的男人/video_audio.mp3"
               },
-              "icon": "code-2",
-              "title": "A Day in Boston 慢速英语Vlog地道表达学习"
+              "icon": "lucide-file-audio",
+              "title": "video_audio"
             }
           }
         ]
@@ -207,21 +207,21 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "fbbf81b61909c39f",
+  "active": "7877f13aad1cd76f",
   "lastOpenFiles": [
+    "Audio/A Day in Boston 慢速英语Vlog地道表达学习_v2.html",
+    "Audio/Arthur_Fleck_访谈_地道英语表达学习_v2.html",
     "Audio/Arthur_Fleck_访谈_地道英语表达学习.html",
-    "Arthur_Fleck_访谈_地道英语表达学习.html",
-    "Audio/Coffee and Grocery Shopping in Los Angeles  Slow English Vlog (B1-C1)/LA-Vlog-地道英文句式拆解.html",
+    "Audio/李飞飞访谈_英语精听学习_v2.html",
     "Audio/我为了一个怪物，离开了我所爱的男人/video_audio.mp3",
+    "Audio/Coffee and Grocery Shopping in Los Angeles  Slow English Vlog (B1-C1)/LA-Vlog-地道英文句式拆解.html",
+    "Audio/A Day in Boston 慢速英语Vlog地道表达学习.html",
+    "Arthur_Fleck_访谈_地道英语表达学习.html",
     "Audio/Coffee and Grocery Shopping in Los Angeles  Slow English Vlog (B1-C1)",
     "Audio/新建文件夹/LA-Vlog-地道英文句式拆解.html",
     "Audio/新建文件夹",
-    "Audio/LA-Vlog-地道英文句式拆解.html",
-    "Audio/我为了一个怪物，离开了我所爱的男人/I Left The Man I Love For A Monster_英语学习.html",
     "2025.9.25 daily note.md",
     "白宫同台_马斯克黄仁勋_英语学习笔记.md",
-    "Audio/我为了一个怪物，离开了我所爱的男人",
-    "Audio",
     "Source/Local/@辩论视频英语学习笔记.md",
     "英文教学视频《美式英语频率最高的句子》.md",
     "您的英语听力练习方法有误（以下是完整的练习方法）.md",
