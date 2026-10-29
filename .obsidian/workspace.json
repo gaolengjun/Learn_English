@@ -13,10 +13,10 @@
             "state": {
               "type": "borrax-html-view",
               "state": {
-                "file": "Audio/Survival_English_Walking_Dead.html"
+                "file": "Audio/DAY2_PART2_Everyday_Vocabulary_A1-C2.html"
               },
               "icon": "code-2",
-              "title": "Survival_English_Walking_Dead"
+              "title": "DAY2_PART2_Everyday_Vocabulary_A1-C2"
             }
           }
         ]
@@ -192,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 572
+    "width": 572,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,11 +210,11 @@
   },
   "active": "7877f13aad1cd76f",
   "lastOpenFiles": [
+    "Audio/Learn_Real-Life_English_What_I_Eat_in_a_Week.html",
+    "Audio/Survival_English_Walking_Dead.html",
     "Audio/The_Walking_Dead_S4E8_Prison_Battle_Movie_English.html",
     "Audio/Shadowing_Practice_Cafe_English_Learning.html",
-    "Audio/Learn_Real-Life_English_What_I_Eat_in_a_Week.html",
     "Audio/AI口译时代人工译员何去何从_BBC播客英语精学.html",
-    "Audio/Survival_English_Walking_Dead.html",
     "Audio/墨尔本酒店英语学习页面.html",
     "Audio/Jensen_Huang_演讲英语学习.html",
     "Audio/Fast_English_Survival_Guide_学习页面.html",
