@@ -18,8 +18,19 @@
               "icon": "code-2",
               "title": "The_Walking_Dead_S4E8_Prison_Battle_Movie_English"
             }
+          },
+          {
+            "id": "80dfa7dd2f8aea27",
+            "type": "leaf",
+            "state": {
+              "type": "hl-bookshelf-view",
+              "state": {},
+              "icon": "library",
+              "title": "书架"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,7 +230,7 @@
       "hilighter:打开 HiLighter 书架": false
     }
   },
-  "active": "f6fd08e049a1d8f7",
+  "active": "80dfa7dd2f8aea27",
   "lastOpenFiles": [
     "Audio/LA-Vlog-地道英文句式拆解.html",
     "Audio/我为了一个怪物，离开了我所爱的男人/I Left The Man I Love For A Monster_英语学习.html",
