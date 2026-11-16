@@ -186,9 +186,19 @@
               "icon": "lucide-info",
               "title": "Are you good at English - English Grammar in 2 Minutes - Good at vs. Bad at的笔记属性"
             }
+          },
+          {
+            "id": "f6fd08e049a1d8f7",
+            "type": "leaf",
+            "state": {
+              "type": "hl-highlight-view",
+              "state": {},
+              "icon": "highlighter",
+              "title": "高亮笔记"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -204,10 +214,12 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "hilighter:高亮笔记": false,
+      "hilighter:打开 HiLighter 书架": false
     }
   },
-  "active": "7877f13aad1cd76f",
+  "active": "f6fd08e049a1d8f7",
   "lastOpenFiles": [
     "Audio/LA-Vlog-地道英文句式拆解.html",
     "Audio/我为了一个怪物，离开了我所爱的男人/I Left The Man I Love For A Monster_英语学习.html",
