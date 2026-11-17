@@ -28,9 +28,89 @@
               "icon": "library",
               "title": "书架"
             }
+          },
+          {
+            "id": "646dad80e63b5d6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英文教学视频《美式英语频率最高的句子》.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "英文教学视频《美式英语频率最高的句子》"
+            }
+          },
+          {
+            "id": "b073a4af59c5b1e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语口语8个句子骨架_教学拆解文字稿.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "英语口语8个句子骨架_教学拆解文字稿"
+            }
+          },
+          {
+            "id": "33bc4a2decc757ce",
+            "type": "leaf",
+            "state": {
+              "type": "hl-highlight-manager",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "管理卡片集"
+            }
+          },
+          {
+            "id": "e0228760cdb763e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语口语8个句子骨架_教学拆解文字稿.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "英语口语8个句子骨架_教学拆解文字稿"
+            }
+          },
+          {
+            "id": "148c672f7a7a2231",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "深圳城市介绍视频_地道英文高频表达精讲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "深圳城市介绍视频_地道英文高频表达精讲"
+            }
+          },
+          {
+            "id": "b85bf38fbd74f9fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英文教学视频《美式英语频率最高的句子》.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "英文教学视频《美式英语频率最高的句子》"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -51,7 +131,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -230,45 +310,45 @@
       "hilighter:打开 HiLighter 书架": false
     }
   },
-  "active": "80dfa7dd2f8aea27",
+  "active": "b85bf38fbd74f9fa",
   "lastOpenFiles": [
-    "Audio/LA-Vlog-地道英文句式拆解.html",
-    "Audio/我为了一个怪物，离开了我所爱的男人/I Left The Man I Love For A Monster_英语学习.html",
-    "Audio/I Left The Man I Love For A Monster_英语学习.html",
-    "Audio/The_Walking_Dead_S4E8_Prison_Battle_Movie_English.html",
-    "Audio/What do tech pioneers think about the AI revolution - 地道表达学习.html",
-    "Audio/Fast_English_Survival_Guide_学习页面.html",
-    "Audio/DAY2_PART2_Everyday_Vocabulary_A1-C2.html",
-    "Audio/Learn_Real-Life_English_What_I_Eat_in_a_Week.html",
-    "Audio/Survival_English_Walking_Dead.html",
+    "深圳城市介绍视频_地道英文高频表达精讲.md",
+    "英文教学视频《美式英语频率最高的句子》.md",
+    "雅思高频词汇闪卡.md",
+    "世界技能博物馆_视频英文转写稿_中英对照.md",
+    "HiLighter/Groups/2026-11-16 英语口语8个句子骨架_教学拆解文字稿 (2).md",
+    "HiLighter/Groups/2026-11-16 英语口语8个句子骨架_教学拆解文字稿.md",
+    "HiLighter/Groups",
+    "HiLighter",
+    "常用征求他人意见看法和回应.md",
+    "Audio/Arthur_Fleck_访谈_地道英语表达学习_v2.html",
+    "Audio/Bob_Topic_Change_英语学习.html",
     "Audio/Shadowing_Practice_Cafe_English_Learning.html",
-    "Audio/AI口译时代人工译员何去何从_BBC播客英语精学.html",
+    "Audio/The_Walking_Dead_Negan_English_Learning.html",
+    "Audio/Survival_English_Walking_Dead.html",
+    "Audio/AI Isn't as Powerful as We Think - Hannah Fry 地道表达学习.html",
+    "英语口语8个句子骨架_教学拆解文字稿.md",
+    "如何谈论周末.md",
+    "成为流利英语的正确方法.md",
+    "辩论视频英语学习笔记.html",
+    "Audio/为什么这么多男性戒掉色情内容_BBC播客英语精学.html",
     "2025.9.25 daily note.md",
     "白宫同台_马斯克黄仁勋_英语学习笔记.md",
     "Source/Local/@辩论视频英语学习笔记.md",
-    "英文教学视频《美式英语频率最高的句子》.md",
     "您的英语听力练习方法有误（以下是完整的练习方法）.md",
     "Charlie_Kirk校园问答_英语学习笔记.md",
     "英语中常用副词.md",
-    "英语口语8个句子骨架_教学拆解文字稿.md",
     "10条切实有效的色情成瘾康复建议.md",
     "4道令人困惑的英语问题.md",
     "be coming to an end (即将结束 正走向结束).md",
     "been 还是 gone.md",
-    "雅思高频词汇闪卡.md",
     "45个高级短语教你自信的英语会话.md",
     "u4_s1_chunks_of_language_地道语块拆解笔记.md",
     "无论.md",
     "Mom Sees Son Cheat 地道英文表达拆解笔记.md",
-    "常用征求他人意见看法和回应.md",
-    "成为流利英语的正确方法.md",
     "45个高级短语，助你自信进行英语对话.md",
     "未命名.canvas",
-    "深圳城市介绍视频_地道英文高频表达精讲.md",
     "表达偏好.md",
-    "关系代词Who.md",
-    "世界技能博物馆_视频英文转写稿_中英对照.md",
-    "2026-09-10.md",
     "视频计划/第三次视频规划.canvas",
     "resource/Pasted image 20260824164212.png",
     "视频计划/第二次视频规划.canvas",

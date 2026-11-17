@@ -69,5 +69,9 @@
   "syncFilePath": ".hilighter/sync-data.json",
   "syncOnUnload": true,
   "syncAutoImport": true,
-  "syncAutoExport": true
+  "syncAutoExport": true,
+  "shelfTombstones": [],
+  "favoriteTombstones": [],
+  "tagTombstones": [],
+  "bookMetaTombstones": []
 }

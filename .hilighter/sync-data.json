@@ -1,0 +1,79 @@
+{
+  "version": 2,
+  "exportedAt": 1794815911271,
+  "writerId": "1742fe5e-932e-4703-bdbc-64693caf8920",
+  "count": 6,
+  "highlights": [
+    {
+      "id": "3cb5f1b1-779f-45ba-95db-e527920861b4",
+      "text": "I get off work at five",
+      "color": "yellow",
+      "note": "我五点下班\nget off work表示下班",
+      "sourcePath": "英文教学视频《美式英语频率最高的句子》.md",
+      "lineIndex": 0,
+      "createdAt": 1794815763464,
+      "anchorType": "note",
+      "contextQuote": "10. I get off work at five.",
+      "updatedAt": 1794815776771
+    },
+    {
+      "id": "4e4a83b7-24ae-49be-85c8-ef8077cdbfc7",
+      "text": "I get off work at five",
+      "color": "pink",
+      "note": "",
+      "sourcePath": "英文教学视频《美式英语频率最高的句子》.md",
+      "lineIndex": 0,
+      "createdAt": 1794815737116,
+      "anchorType": "note",
+      "contextQuote": "10. I get off work at five."
+    },
+    {
+      "id": "7524fde0-6c1f-4dc1-a115-7e72322dff66",
+      "text": "Could you imagine that",
+      "color": "yellow",
+      "note": "后接从句",
+      "sourcePath": "世界技能博物馆_视频英文转写稿_中英对照.md",
+      "lineIndex": 0,
+      "createdAt": 1794815627177,
+      "anchorType": "note",
+      "contextQuote": "Could you imagine that this work is only from an old black-and-white blueprint and a WorldSkills gold medalist recreated entirely by hand?"
+    },
+    {
+      "id": "9a1672e9-2df1-4e5e-9e30-d47de523b379",
+      "text": "You may have been to the history museums, art galleries, and science centers, but have you ever been to a museum that is all about human skills?",
+      "color": "blue",
+      "note": "",
+      "sourcePath": "世界技能博物馆_视频英文转写稿_中英对照.md",
+      "lineIndex": 22,
+      "createdAt": 1794815533015,
+      "colorHex": "#87ceeb"
+    },
+    {
+      "id": "c8cf7e4c-d540-4c3f-92a0-78031fbc79f1",
+      "text": "be inspired by",
+      "color": "yellow",
+      "note": "灵感来自",
+      "sourcePath": "深圳城市介绍视频_地道英文高频表达精讲.md",
+      "lineIndex": 205,
+      "createdAt": 1794815469798,
+      "colorHex": "#ffd700",
+      "updatedAt": 1794815828635
+    },
+    {
+      "id": "544aa9fc-d5aa-438d-9506-d8e522645a3b",
+      "text": "walk through it",
+      "color": "blue",
+      "note": "",
+      "sourcePath": "深圳城市介绍视频_地道英文高频表达精讲.md",
+      "lineIndex": 98,
+      "createdAt": 1794815368994,
+      "colorHex": "#87ceeb"
+    }
+  ],
+  "tombstones": [
+    {
+      "id": "28022529-3e08-4d0f-a6ee-ce85885eae56",
+      "deletedAt": 1794815851258
+    }
+  ]
+}
